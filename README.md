@@ -47,8 +47,9 @@ call application logic directly while the collector remains on the page.
 | Must infer whether an action is sensitive | Distinguishes read, preview, and mutation operations |
 | May obscure the state used by the action | Runs in the page context with the active collector and visible UI |
 
-Chrome for Developers illustrates this distinction in a short
-[side-by-side comparison of DOM interaction and WebMCP tool calling](https://www.youtube.com/watch?v=CD67L_SIMDk).
+Chrome for Developers illustrates this distinction in a short comparison:
+
+[![WebMCP: UI automation versus structured tool calling](https://img.youtube.com/vi/CD67L_SIMDk/maxresdefault.jpg)](https://www.youtube.com/watch?v=CD67L_SIMDk)
 
 ## Agentic workflow
 
