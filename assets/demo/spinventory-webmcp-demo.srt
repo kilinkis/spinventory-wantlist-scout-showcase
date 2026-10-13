@@ -1,0 +1,39 @@
+1
+00:00:03,500 --> 00:00:07,500
+The agent invokes the page's WebMCP tools
+
+2
+00:00:07,500 --> 00:00:11,500
+Inspecting the collector's existing library
+
+3
+00:00:11,500 --> 00:00:16,500
+Structured collection data, returned through WebMCP
+
+4
+00:00:16,500 --> 00:00:25,500
+Find missing soundtracks. Prefer colored vinyl.
+
+5
+00:00:25,500 --> 00:00:29,500
+Three soundtrack albums, with exact pressing IDs
+
+6
+00:00:29,500 --> 00:00:35,500
+Pressing details and reasons for each recommendation
+
+7
+00:00:35,500 --> 00:00:45,500
+The collector explicitly approves the additions
+
+8
+00:00:45,500 --> 00:00:52,500
+Signed preview and wantlist update through WebMCP
+
+9
+00:00:52,500 --> 00:00:58,500
+Preview and mutation calls are visible in DevTools
+
+10
+00:00:58,500 --> 00:01:09,500
+Three releases added, reflected in Spinventory's wishlist

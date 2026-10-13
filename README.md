@@ -3,7 +3,7 @@
 An agentic vinyl-discovery experience built with the Chrome Prompt API,
 WebMCP, Chrome DevTools for agents, and the Discogs API.
 
-[Try the live demo](https://spinventory.app/kilinkis/scout?portfolio)
+[Try the live demo](https://spinventory.app/kilinkis/scout?portfolio) · [Watch the 74-second demo](#demo)
 
 > The production application is maintained in a private repository.
 > This public repository documents the product, architecture, tool
@@ -28,6 +28,22 @@ pressings.
 
 Through WebMCP, compatible agents can discover and invoke the same
 capabilities programmatically.
+
+## Demo
+
+[![Watch the Spinventory Wantlist Scout demo: collection research, exact pressing recommendations, and human-approved wantlist updates](assets/demo/spinventory-demo-thumbnail.png)](https://github.com/kilinkis/spinventory-wantlist-scout-showcase/raw/refs/heads/main/assets/demo/spinventory-webmcp-demo.mp4)
+
+**[Watch the demo — 74 seconds](https://github.com/kilinkis/spinventory-wantlist-scout-showcase/raw/refs/heads/main/assets/demo/spinventory-webmcp-demo.mp4)** · [Download the MP4](assets/demo/spinventory-webmcp-demo.mp4) · [Caption file](assets/demo/spinventory-webmcp-demo.srt)
+
+A Gemini agent in Antigravity CLI invokes Spinventory's WebMCP tools to inspect
+the collection, research exact vinyl pressings, and add three releases to the
+Discogs wantlist after the collector approves. Chrome DevTools shows the
+completed preview and mutation calls, and Spinventory's wishlist reflects the
+additions.
+
+This recording demonstrates the cloud-agent workflow. The app's on-device
+Prompt API is a separate capability for interpreting goals entered through the
+UI. The video is silent, with captions; waiting time is shortened with cuts.
 
 ## Why WebMCP
 
