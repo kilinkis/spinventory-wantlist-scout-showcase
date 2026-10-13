@@ -3,13 +3,15 @@
 An agentic vinyl-discovery experience built with the Chrome Prompt API,
 WebMCP, Chrome DevTools for agents, and the Discogs API.
 
-[Try the live demo](https://spinventory.app/kilinkis/scout?portfolio) · [Watch the 74-second demo](#demo)
+[Try the live demo](https://spinventory.app/kilinkis/scout?portfolio) · [Watch the demo](#demo)
 
 > The production application is maintained in a private repository.
 > This public repository documents the product, architecture, tool
 > contracts, safety model, and demo workflow.
 
-![Spinventory Wantlist Scout](assets/screenshots/spinventory-webmcp-ui.png)
+<picture>
+  <img src="assets/screenshots/spinventory-webmcp-ui.png" alt="Spinventory Wantlist Scout">
+</picture>
 
 ## Overview
 
@@ -31,9 +33,9 @@ capabilities programmatically.
 
 ## Demo
 
-[![Watch the Spinventory Wantlist Scout demo: collection research, exact pressing recommendations, and human-approved wantlist updates](assets/demo/spinventory-demo-thumbnail.png)](https://github.com/kilinkis/spinventory-wantlist-scout-showcase/raw/refs/heads/main/assets/demo/spinventory-webmcp-demo.mp4)
+https://github.com/user-attachments/assets/8aba4dc5-215c-4f67-885f-251a563c042e
 
-**[Watch the demo — 74 seconds](https://github.com/kilinkis/spinventory-wantlist-scout-showcase/raw/refs/heads/main/assets/demo/spinventory-webmcp-demo.mp4)** · [Download the MP4](assets/demo/spinventory-webmcp-demo.mp4) · [Caption file](assets/demo/spinventory-webmcp-demo.srt)
+[Download the MP4](assets/demo/spinventory-webmcp-demo.mp4) · [Caption file](assets/demo/spinventory-webmcp-demo.srt)
 
 A Gemini agent in Antigravity CLI invokes Spinventory's WebMCP tools to inspect
 the collection, research exact vinyl pressings, and add three releases to the
